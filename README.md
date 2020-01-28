@@ -15,6 +15,8 @@ DCGANs are generative models designed from GANs, made from conv-layers with no m
 - Use ReLU in the generator except for the output which uses tanh.
 - Use LeakyReLU in the discriminator.
 
+![Alt text] (/9999.png) 
+
 ### ref
 [] Alec Radford, Luke Metz, and Soumith Chintala. Unsupervised representation learning with deep convolutional generative adversarial networks. CoRR,
 abs/1511.06434, 2015.
