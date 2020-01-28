@@ -15,7 +15,10 @@ DCGANs are generative models designed from GANs, made from conv-layers with no m
 - Use ReLU in the generator except for the output which uses tanh.
 - Use LeakyReLU in the discriminator.
 
-![Alt text] (/9999.png) 
+### intermediate result
+this result is given at the 9999 epoch which is still to early to get clear results. It can be optimized, for example a more robust model can be used as descriminator. 
+
+<img src="https://raw.githubusercontent.com/nassim-fox/anime-faces-generation-using-a-simple-dcgan-/master/9999.png" width="300">
 
 ### ref
 [] Alec Radford, Luke Metz, and Soumith Chintala. Unsupervised representation learning with deep convolutional generative adversarial networks. CoRR,
